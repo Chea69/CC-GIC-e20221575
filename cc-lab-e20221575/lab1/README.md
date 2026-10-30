@@ -2,8 +2,8 @@
 
 - **Student name:** MA Sovitchea
 - **Student ID:** e20221575
-- **Learner Lab user name:**
-- **Date completed:**
+- **Learner Lab user name:** voclabs/user5623129=MA_SOVITCHEA
+- **Date completed:** 30/Oct/2026
 
 ---
 
